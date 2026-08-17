@@ -1,0 +1,10 @@
+{
+  "_comment": "Personalisation values for cloning this IFT542 project. Copy to clone.json, fill in your details, then run `make clone` (or python3 tools/clone_project.py --config clone.json). All values become placeholders replaced across the README, report and evidence. Fictitious data only.",
+  "matric_no": "2021/1/84134CF",
+  "full_name": "Abaji Fawziyya Muhammad",
+  "email": "fawziyya.m2104228@st.futminna.edu.ng",
+  "department": "Information Technology",
+  "github_url": "https://github.com/app-droid166/ift542-assignment.git",
+  "date": "2026-08-13",
+  "output_dir": "./out"
+}
